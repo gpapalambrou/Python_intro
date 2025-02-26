@@ -2,7 +2,6 @@
 
 ## Γενικά
 
-1. Εγκατάσταση Jupyter, [Project Jupyter | Installing Jupyter](https://jupyter.org/install)
 
 
 ## Πηγές για Python
