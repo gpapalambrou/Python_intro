@@ -12,3 +12,6 @@
 1. J. VanderPlas, A Whirlwind Tour of Python, https://jakevdp.github.io/WhirlwindTourOfPython/
 1. J. VanderPlas, PyData 101, PyData Seattle 2017, https://speakerdeck.com/jakevdp/pydata-101?slide=86
 1. J. VanderPlas, Reproducible Data Analysis in Jupyter, Part 1/10: Loading and Visualizing Data, YouTube Videos
+
+
+ Για επιστροφή στην αρχική σελίδα πατήστε [εδώ](README.md).
