@@ -14,4 +14,4 @@
 pip install pyinstaller και μετά θα δώσετε: pyinstaller --onefile your_script.py. To *.exe θα τρέξει απο το Command window, δίνοντας Win+R, κατόπιν cmd και πηγαίνοντας με cd C:\path\to\your\executable
 
 
- Για επιστροφή στην αρχική σελίδα [εδώ](README.md).
+ Για επιστροφή στην αρχική σελίδα πατήστε [εδώ](README.md).
