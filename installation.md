@@ -12,3 +12,6 @@
 
 1. Σε περίπτωση που θέλετε να δημιουργήσετε εκτελέσιμο κώδικα Python, θα κάνετε εγκατάσταση του PyInstaller ως 
 pip install pyinstaller και μετά θα δώσετε: pyinstaller --onefile your_script.py. To *.exe θα τρέξει απο το Command window, δίνοντας Win+R, κατόπιν cmd και πηγαίνοντας με cd C:\path\to\your\executable
+
+
+ Για επιστροφή στην αρχική σελίδα [εδώ](README.md).
