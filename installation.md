@@ -1,9 +1,9 @@
 
 # Οδηγίες Εγκατάστασης Python, VSC, Jupyter
 
-Eγκατάσταση Python, Welcome to Python.org https://www.python.org/
+Eγκατάσταση Python, https://www.python.org/
 
-Python on Windows for beginners | Microsoft Learn https://learn.microsoft.com/en-us/windows/python/beginners?wt.mc_id=developermscom
+Python on Windows for beginners | Microsoft Learn  https://learn.microsoft.com/en-us/windows/python/beginners?wt.mc_id=developermscom
 
 Εγκατάσταση του IDE Visual Studio Code, Download Visual Studio Code - Mac, Linux, Windows. https://code.visualstudio.com/download 
 Για να τρέξετε την Python από το VSC, θα κάνετε και εγκατάσταση των Microsoft Python Extensions
