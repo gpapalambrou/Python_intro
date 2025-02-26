@@ -22,7 +22,7 @@ Email: george.papalambrou@lme.ntua.gr
 
 Σύνδεσμοι με περισσότερες πληροφορίες και σχετική Βιβλιογραφία υπάρχουν [εδώ](Bibliography.md). Για εγκαταστάσεις Jupyter, Python, Visual Code Studio δείτε [εδώ](installation.md).
 
-Το κάθε μάθημα διαθέτει ένα ή περισσότερα αρχεία Jupyter, πχ `xxL1.ipynb`και Python, πχ `xxL1.py`. Θα κατεβάσετε τα αρχεία αυτά απο το GitHub και θα τα ανοίξετε τοπικά στον ΗΥ σας μέσω ενός browser, αφού πρώτα ανοίξετε ένα τερματικό `PowerShell` (σε Windows) και κατόπιν δώσετε εκεί την εντολή `jupyter notebook`ή αλλιώς θα τα τρέξετε  απευθείας σε Visual Code Studio.
+Το κάθε μάθημα διαθέτει ένα ή περισσότερα αρχεία Jupyter, πχ `pythonL1-1.ipynb`και Python, πχ `python_L1.py`. Θα κατεβάσετε τα αρχεία αυτά απο το GitHub και θα τα ανοίξετε τοπικά στον ΗΥ σας μέσω ενός browser, αφού πρώτα ανοίξετε ένα τερματικό `PowerShell` (σε Windows) και κατόπιν δώσετε εκεί την εντολή `jupyter notebook`ή αλλιώς θα τα τρέξετε  απευθείας σε Visual Code Studio.
 
 
 Η ύλη των μαθημάτων παρουσιάζεται παρακάτω:
