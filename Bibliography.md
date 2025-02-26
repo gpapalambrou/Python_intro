@@ -2,26 +2,7 @@
 
 ## Γενικά
 
-1. Fritzing - course, sketch, download: Σχεδίαση ηλεκτρονικών κυκλωμάτων,
-https://arduinofactory.fr/en/fritzing/
-
 1. Εγκατάσταση Jupyter, [Project Jupyter | Installing Jupyter](https://jupyter.org/install)
-
-1. Εγκατάσταση Micropython στο Jupyter,  https://pypi.org/project/jupyter_micropython_kernel/
-   
-1. Carl Kadie, [Nine Pico PIO Wats with MicroPython (Part 1)](https://medium.com/towards-data-science/nine-pico-pio-wats-with-micropython-part-1-82b80fb84473)
-
-   
-
-## Πηγές για MicroPython
-1. https://micropython.org/download/
-1. https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#what-is-micropython
-
-
-## Πηγές για Raspberry Pico 
-
-1. Pico-series Microcontrollers - Raspberry Pi Documentation,
-https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family
 
 
 ## Πηγές για Python
