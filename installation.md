@@ -1,7 +1,7 @@
 
 # Οδηγίες Εγκατάστασης Python, VSC, Jupyter
 
-1. Eγκατάσταση Python, https://www.python.org/. Περιλαμβάνεται και ο pip (Python package installer).
+1. Eγκατάσταση Python, https://www.python.org/. Περιλαμβάνεται και ο *pip* (Python package installer).
 
 1. Python on Windows for beginners | Microsoft Learn  https://learn.microsoft.com/en-us/windows/python/beginners?wt.mc_id=developermscom
 
