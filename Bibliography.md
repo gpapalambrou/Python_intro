@@ -1,10 +1,5 @@
 # Βιβλιογραφία
 
-## Γενικά
-
-
-
-## Πηγές για Python
 
 
 1. E.  Matthes, Python Crash Course, 3rd ed., No starch press, 2023, [GitHub - ehmatthes/pcc_3e: Online resources for Python Crash Course, 3rd edition](https://github.com/ehmatthes/pcc_3e)
