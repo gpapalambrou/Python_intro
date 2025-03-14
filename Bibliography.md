@@ -2,7 +2,7 @@
 
 
 
-1. E.  Matthes, Python Crash Course, 3rd ed., No starch press, 2023, [GitHub - ehmatthes/pcc_3e: Online resources for Python Crash Course, 3rd edition](https://github.com/ehmatthes/pcc_3e)
+1. `E.  Matthes, Python Crash Course`, 3rd ed., No starch press, 2023, [GitHub - ehmatthes/pcc_3e: Online resources for Python Crash Course, 3rd edition](https://github.com/ehmatthes/pcc_3e)
 1. J. VanderPlas, A Whirlwind Tour of Python, https://jakevdp.github.io/WhirlwindTourOfPython/
 1. The Python Tutorial, https://docs.python.org/3/tutorial/index.html
 1. Foundations of Python Programming, https://runestone.academy/ns/books/published/fopp/index.html
